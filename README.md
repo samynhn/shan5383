@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-    <img height200 src="https://spotify-recently-played-readme.vercel.app/api?user=jgdj2upznlrv212z84ddstl78&count=5&width=1000">
+    <img height200 src="https://spotify-recently-played-readme.vercel.app/api?user=jgdj2upznlrv212z84ddstl78&count=10&width=1000">
 </p>
 
 <br />
