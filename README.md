@@ -12,9 +12,7 @@
 - 💻 undergraduate student study Computer Science
 - 🌱 Currently working on my [side project](https://github.com/shan5383)
 - ❤️ Interests :  Coding 💻, Music 🎧 , Girls 👩
-<p align="center">
-    <img height200 src="https://spotify-recently-played-readme.vercel.app/api?user=jgdj2upznlrv212z84ddstl78&count=3&width=1000">
-</p>
+
 <br />
 <h2 align="center"> 📊 Github Stats </h2>
 <p align="center">
@@ -23,6 +21,10 @@
     <img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=shan5383&theme=onedark">
     
 
+</p>
+
+<p align="center">
+    <img height200 src="https://spotify-recently-played-readme.vercel.app/api?user=jgdj2upznlrv212z84ddstl78&count=3&width=1000">
 </p>
 
 <br />
