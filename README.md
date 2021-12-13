@@ -3,7 +3,6 @@
 <p align="center">
     <img src="https://img.shields.io/github/followers/onevcat?style=for-the-badge&logo=github&color=42b883" alt="">
     <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=onevcat.ricky9667&style=for-the-badge&logo=github&color=42b883" alt="">
-    <img align="right" alt="Coding" width="400" src="https://github.com/shan5383/shan5383/blob/main/sunset_ocean/dist/index.html">
 </p>
 
 
