@@ -13,8 +13,8 @@
 
 - 🚩 [NTUT](https://www.ntut.edu.tw/)-EECS
 - 💻 undergraduate student study Computer Science
-- 🌱 Currently working on my [side project](https://github.com/shan5383)
-- ❤️ Interests :  Coding 💻, Music 🎧 , Girls 👩
+- 🌱 working on my music work and [programming project](https://github.com/shan5383)
+- ❤️ Interests :  Coding 💻 , Music 🎧 , Basketball 🏀 , Girls 👩
 
 <br />
 <h2 align="center"> 📊 Github Stats </h2>
