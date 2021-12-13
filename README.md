@@ -14,6 +14,7 @@
 - 🚩 [NTUT](https://www.ntut.edu.tw/)-EECS
 - 💻 undergraduate student study Computer Science
 - 🌱 working on my music work and [programming project](https://github.com/shan5383)
+- 🔭 learning coumputer science theorem
 - ❤️ Interests :  Coding 💻 , Music 🎧 , Basketball 🏀 , Girls 👩
 
 <br />
