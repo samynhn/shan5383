@@ -21,7 +21,7 @@
 <h2 align="center"> 📊 Github Stats </h2>
 <p align="center">
     <img height=160 src="https://github-readme-stats.vercel.app/api?username=shan5383&show_icons=true&theme=onedark">
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan5383&langs_count=2&layout=compact&theme=onedark">
+    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan5383&langs_count=10&layout=compact&theme=onedark">
     <img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=shan5383&theme=onedark">
     
 
