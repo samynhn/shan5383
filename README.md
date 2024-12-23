@@ -1,4 +1,4 @@
-<h1 align="center"> SHAWN! Here 👦 </h1>
+<h1 align="center"> Samynhn! Here 👦 </h1>
 
 <p align="center">
     <img src="https://img.shields.io/github/followers/onevcat?style=for-the-badge&logo=github&color=42b883" alt="">
@@ -11,18 +11,17 @@
 
 <h2 align="center"> 🖊 About me </h2>
 
-- 🚩 [NTUT](https://www.ntut.edu.tw/)-EECS
-- 💻 undergraduate student study Computer Science
-- 🌱 working on my music work and [programming project](https://github.com/shan5383)
-- 🔭 learning coumputer science theorem
+- 🚩 [NYCU](https://www.nycu.edu.tw/nycu/ch/index)-CS
+- 💻 a graduate student studying Computer Science & Machine Learning 🤖
+- 🌱 working on my music work and [programming project](https://github.com/samynhn)
 - ❤️ Interests :  Coding 💻 , Music 🎧 , Basketball 🏀 , Girls 👩
 
 <br />
 <h2 align="center"> 📊 Github Stats </h2>
 <p align="center">
-    <img height=160 src="https://github-readme-stats.vercel.app/api?username=shan5383&show_icons=true&theme=onedark">
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shan5383&langs_count=10&layout=compact&theme=onedark">
-    <img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=shan5383&theme=onedark">
+    <img height=160 src="https://github-readme-stats.vercel.app/api?username=samynhn&show_icons=true&theme=onedark">
+    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=samynhn&langs_count=10&layout=compact&theme=onedark">
+    <img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=samynhn&theme=onedark">
     
 
 </p>
@@ -69,13 +68,3 @@
 
 <br />
 
-
-
-
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- 😄 Pronouns: 💰💰💰
-- ⚡ Fun fact:
--->
